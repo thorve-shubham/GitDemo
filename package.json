@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thorve-shubham/GitDemo/issues"
   },
-  "homepage": "https://github.com/thorve-shubham/GitDemo#readme"
+  "homepage": "https://github.com/thorve-shubham/GitDemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
